@@ -25,7 +25,8 @@
 /** 1. Basic
 *******************************************************************/
 @font-face {
-    font-family: Abril Fatface;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: normal;
     src: url('/assets/fonts/AbrilFatface-Regular.otf');
 }
 
